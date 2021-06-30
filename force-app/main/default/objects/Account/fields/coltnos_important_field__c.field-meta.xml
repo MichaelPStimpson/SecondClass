@@ -3,7 +3,7 @@
     <fullName>coltnos_important_field__c</fullName>
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
-    <label>Colton's very important field</label>
+    <label>Coltnos's very important field</label>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Checkbox</type>
 </CustomField>
